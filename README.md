@@ -3,20 +3,22 @@
 This project presents a comprehensive Coffee sales analysis using Excel, showcasing insights across orders, customers, products, and countries. The data is visualized through a dashboard and various charts to provide actionable insights for the decision-making.
 
 ## Features:
-*Sales Dashboard*: An interactive dashboard summarizing key metrics and trends.
 
-*Total Sales Analysis*: Breakdown of total sales across different dimensions.
+**Sales Dashboard**: An interactive dashboard summarizing key metrics and trends.
 
-*Order Data*: A detailed table of orders with corresponding customer and product details.
+**Total Sales Analysis**: Breakdown of total sales across different dimensions.
 
-*Customer Insights*: Data on customers, including top 5 customers based on purchase volume.
+**Order Data**: A detailed table of orders with corresponding customer and product details.
 
-*Product Information*: Details on product categories and pricing.
+**Customer Insights**: Data on customers, including top 5 customers based on purchase volume.
 
-*Country Bar Chart*: A visualization representing sales distribution across different countries.
+**Product Information**: Details on product categories and pricing.
+
+**Country Bar Chart**: A visualization representing sales distribution across different countries.
 
 
-##Technologies Used:
+## Technologies Used:
+
 *Microsoft Excel*
 *Excel Dashboard & Charts*
 
