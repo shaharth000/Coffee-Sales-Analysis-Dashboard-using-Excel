@@ -19,7 +19,8 @@ This project presents a comprehensive Coffee sales analysis using Excel, showcas
 
 ## Technologies Used:
 
-*Microsoft Excel*
-*Excel Dashboard & Charts*
+**Microsoft Excel**
+
+**Excel Dashboard & Charts**
 
 This project serves as a useful tool for understanding sales performance and customer behavior through data visualizations and summaries.
